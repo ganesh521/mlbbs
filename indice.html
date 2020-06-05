@@ -6,7 +6,7 @@
   </head>
   <body>
     <h1>★ValKYrien★꧂</h1>
-    <img src="/Users/resups/WebDevelopement/eavvae.jpg" alt="unavailable">
+    <img src="images/eavvae.jpg" alt="unavailable">
     <p> player of <b>MLBB</b> since july 2018 and met <em>Evvaaa</em> in March 2020 and this 🌸page 🌸is for you evvaa💐</p>
     <p>I am Tank main and play as <b>⚜shield ⚜</b>for Evvaa</p>
     <h5>my favourite heroes</h5>
